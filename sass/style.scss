@@ -1,0 +1,11 @@
+/*
+	Theme Name:        Vivify Boilerplate Theme
+	Description:       A simple basic theme template for WordPress.
+	Text Domain:       vi-theme
+*/
+
+@import "helpers/variables";
+@import "helpers/base";
+@import "helpers/utils";
+@import "layout/layout";
+@import "components/components";
